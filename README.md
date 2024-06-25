@@ -2,3 +2,5 @@
 [Python: matplotlib.pyplot, torch, time, numpy, collections, OrderedDict, torch.autograd, PIL, lr_scheduler, copy, json, os]
 <img width="110" alt="Screenshot 2023-12-11 at 8 20 20 PM" src="https://github.com/spawar2/CNN_Training/assets/25118302/6e3924bc-0384-4c91-b975-8e66823944a3">
 
+Claflin University, Orangeburg, South Carolina, USA 
+https://www.claflin.edu/
