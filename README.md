@@ -8,7 +8,7 @@ https://www.claflin.edu/academics-research/schools-departments/school-of-natural
 
 ct_scan_brain_hemorrhage.py: Computerized Tomography (CT) scan data read, Test-Train Split, Neural, plotting, noise removal, Convolution Neural 2D network training, confusion matrix, accuracy, sensitivity, specificity, precision, recall, confusion matrix, log-loss, and area under curve and receiver operating characteristic, AUC-ROC evaluation.
 selected function(pd.read_csv, plt.figure, plt.Circle, plt.pie,plot_hist, add_gaussian_noise, Model, model.fit, evaluate_model, network, confusion_matrix, model.predict, model.load_weights, model.compile, model.add, model.summary, plot_confusion_matrix, Sequential).
-
+Accuracy (3, 5, 10 Fold similar values).
 Testing: Score(160px, FE): 0.878; score(160px, FT): 0.879; score(320px, FE): 0.887.
 
 
