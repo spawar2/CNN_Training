@@ -7,7 +7,7 @@ https://www.claflin.edu/academics-research/schools-departments/school-of-natural
 ![download](https://github.com/user-attachments/assets/2595d729-6d6d-4c3e-9ae9-da750ac6d372)
 
 ct_scan_brain_hemorrhage.py: Computerized Tomography (CT) scan data read, Test-Train Split, Neural, plotting, noise removal, Convolution Neural 2D network training, confusion matrix, accuracy, sensitivity, specificity, precision, recall, confusion matrix, log-loss, and area under curve and receiver operating characteristic, AUC-ROC evaluation.
-selected function(pd.read_csv, plt.figure, plt.Circle, plt.pie,plot_hist, add_gaussian_noise, Model, model.fit, evaluate_model, network, confusion_matrix, model.predict, model.load_weights, model.compile, model.add, model.summary, plot_confusion_matrix, Sequential).
+selected function(pd.read_csv, plt.figure, plt.Circle, plt.pie,plot_hist, add_gaussian_noise, Model, model.fit, evaluate_model, network, confusion_matrix, model.predict, model.load_weights, model.compile, model.add, model.summary, plot_confusion_matrix, Sequential). Evaluation metrics:
 	•	Accuracy (3, 5, 10 Fold similar values), precision0.7817164179104478
 	•	recall0.73325
 	•	f1-score0.7567079463364293
